@@ -1,2 +1,3 @@
 # First-Gitup-Repository
-This is my first time using Github
+This is my first time using GitHub
+Author - Himal
